@@ -17,7 +17,11 @@ My motivation for this project was to build a text editor that runs in the brows
 
 ## Installation
 
+Enter "npm i" in the command line to install the required dependencies.
+
 ## Usage
+
+Once installed, the text editor can be used online or offline.
 
 ## License
 
